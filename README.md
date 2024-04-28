@@ -55,7 +55,7 @@ python store_index.py
 python app.py
 ```
 
-After start application, you can open the localhost:
+After start application, you can open the [localhost:8000](http://127.0.0.1:8000)
 
 
 ## TechStack Used
